@@ -1,9 +1,17 @@
-- 👋 Hi, 
-- Welcome to my GitHub profile! I am Abhijith, a passionate cybersecurity student with a drive to protect and defend against digital threats
-- 💞️ I am always open to discussions, collaboration opportunities, and sharing cybersecurity insights
-- 📫 . Feel free to reach out to me via email at (thisisabhijithsoman@gmail.com) or connect with me on LinkedIn (https://www.linkedin.com/in/abhijith-soman-5b597225b)
-Stay secure and stay vigilant!
-<!---
-thisis-abhijith/thisis-abhijith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+  <div class="container">
+    <h1>Hello, I'm Abhijith Soman 👋</h1>
+    <p>I'm a Cyber Security student specializing in offensive security.</p>
+    <p>You can connect with me on <a href="https://www.linkedin.com/in/abhijith-soman-5b597225b/" target="_blank">Linkedin</a>.</p>
+    <p>Feel free to reach out to me via email at <a href="mailto:thisisabhijithsoman@gmail.com">Abhijith Soman</a>.</p>
+    <hr>
+  </div>
+</body>
+</html>
